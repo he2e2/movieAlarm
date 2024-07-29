@@ -8,7 +8,7 @@ const crawler = require("./crawler");
 const app = express();
 const port = 8000;
 
-const clientId = "78efb8811860c100ec0c9648f3f2d478";
+const clientId = "clientId";
 const redirectUri = "http://localhost:8000/redirect";
 let accessToken = null;
 
