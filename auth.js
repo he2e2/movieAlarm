@@ -1,7 +1,7 @@
 const axios = require("axios");
 
-const clientId = "78efb8811860c100ec0c9648f3f2d478";
-const clientSecret = "Mf8kQpQafFksSsU12NaXYtoLHBcw0a9j";
+const clientId = "clientId";
+const clientSecret = "clientSecret";
 const redirectUri = "http://localhost:8000/redirect";
 let accessToken = null;
 
